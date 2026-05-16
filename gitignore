@@ -1,0 +1,7 @@
+## Data
+files/
+*.csv
+
+## Other
+.venv
+.ipynb_checkpoints
