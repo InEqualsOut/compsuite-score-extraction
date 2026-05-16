@@ -1,5 +1,5 @@
-__all__ = ["web_scraper.py", "col_rename.py"]
+__all__ = ["web_scraper.py", "rename_col.py"]
 
 
 from . import web_scraper
-from . import col_rename
+from . import rename_col
